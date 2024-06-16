@@ -13,7 +13,6 @@
 ## Table of contents
 - [About](#about)
 - [Pictures](#pictures)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contribute](#contribute)
 - [License](#license)
@@ -38,13 +37,10 @@ example of encoding the letter "a" :
   <img src="img/screenshot.png" alt="picture" width="600">
 </p>
 
-## Installation
-* run `npm install meowmeow`
-
 ## Usage:
 ```js
 /* import the library */
-const meow = require("meowmeow");
+const meow = require("./meow.js");
 
 const message = "i'm a binary cat !";
 
