@@ -1,0 +1,11 @@
+{
+  "name": "meow-encoding",
+  "version": "1.0.0",
+  "description": "a simple library I made on the spur of the moment just for fun that lets you encode and decode a message for cats",
+  "main": "meow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yvain Ramora",
+  "license": "ISC"
+}
